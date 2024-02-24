@@ -1,4 +1,4 @@
-><h1>Glleria</h1>
+><h1>Galleria</h1>
 
 
 ![](./assets/projeto-galeria.png)
